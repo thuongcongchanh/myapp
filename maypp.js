@@ -1,4 +1,4 @@
-//len duoc github khong 123
+//len duoc github khong
 const express = require('express')
 const app = express()
 const port = 90
